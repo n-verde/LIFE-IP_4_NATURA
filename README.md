@@ -1,8 +1,7 @@
 ## LIFE-IP 4 NATURA
  Google Earth Engine (GEE) code for national-scale land cover classification in the scope of the LIFE-IP 4 NATURA project
  
- More about the LIFE-IP_4_NATURA project: 
- [https://edozoume.gr/]
+ More about the LIFE-IP_4_NATURA project at: https://edozoume.gr/
  
  More information can be found at the respective published paper at: 
  
@@ -18,3 +17,5 @@
  * step 6: RF training
  * step 7: Classification
 
+ ## General workflow
+ ![alt text](https://raw.githubusercontent.com/n-verde/LIFE-IP_4_NATURA/main/images/workflowPaper_LIFE_A3_v4.png?raw=true)
