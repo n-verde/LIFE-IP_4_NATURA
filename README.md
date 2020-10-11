@@ -3,9 +3,12 @@
  
  More about the LIFE-IP_4_NATURA project at: https://edozoume.gr/
  
- More information can be found at the respective published paper at: 
- 
- ## General info
+ More information can be found at the respective published paper at: https://doi.org/10.3390/rs12203303
+
+## Citation
+Verde, N.; Kokkoris, I.P.; Georgiadis, C.; Kaimaris, D.; Dimopoulos, P.; Mitsopoulos, I.; Mallinis, G. National Scale Land Cover Classification for Ecosystem Services Mapping and Assessment, Using Multitemporal Copernicus EO Data and Google Earth Engine. Remote Sens. 2020, 12, doi:10.3390/rs12203303 
+
+## General info
  This repository contains all GEE javascript code developed for the published paper.
  Run the code through the GEE platform at https://code.earthengine.google.com/
  Run the code step by step and according to the instructions included in each script (7 steps in total).
@@ -17,5 +20,5 @@
  * step 6: RF training
  * step 7: Classification
 
- ## General workflow
+## General workflow
  ![alt text](https://raw.githubusercontent.com/n-verde/LIFE-IP_4_NATURA/main/images/workflowPaper_LIFE_A3_v4.png?raw=true)
