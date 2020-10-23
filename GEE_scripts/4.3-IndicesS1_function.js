@@ -26,7 +26,7 @@ function IndicesS1(IC,aoi) {
   /////////////////////////////////////////////////////////////
   // This function calculates VV-VH ratio, and adds it to the image stack.
   function addRATIO(image) {
-    var ratio = image.select('VV').subtract(image.select('VH'))
+    var ratio = image.select('VV').divide(image.select('VH'))
                       .rename('RATIO'); //change new band name
   
     return image.addBands(ratio.rename('RATIO')); //change new band name
