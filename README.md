@@ -6,7 +6,7 @@
  More information can be found at the respective published paper at: https://doi.org/10.3390/rs12203303
 
 ## Citation
-Verde, N.; Kokkoris, I.P.; Georgiadis, C.; Kaimaris, D.; Dimopoulos, P.; Mitsopoulos, I.; Mallinis, G. National Scale Land Cover Classification for Ecosystem Services Mapping and Assessment, Using Multitemporal Copernicus EO Data and Google Earth Engine. Remote Sens. 2020, 12, doi:10.3390/rs12203303 
+Verde N, Kokkoris IP, Georgiadis C, Kaimaris D, Dimopoulos P, Mitsopoulos I, Mallinis G. National scale land cover classification for ecosystem services mapping and assessment, using multitemporal copernicus EO data and google earth engine. Remote Sensing. 2020 Oct 11;12(20):3303. https://doi.org/10.3390/rs12203303  
 
 ## General info
  This repository contains all GEE javascript code developed for the published paper.
